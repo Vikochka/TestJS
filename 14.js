@@ -1,4 +1,4 @@
-ficlass Parent {
+class Parent {
     static print() {
         console.log(1)
     }
